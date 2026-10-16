@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Fonts",
+  "description": "Making the web more beautiful, fast, and open through great typography. Explore, test, and collect open source fonts and symbols by NexVora Lab's Ofc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
